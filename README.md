@@ -12,4 +12,6 @@
 
 ## Build
 run following command from client folder of project
-    node ../tools/r.js -o app.build.js
+<pre><code>
+node ../tools/r.js -o app.build.js
+</code></pre>
