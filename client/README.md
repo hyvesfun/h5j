@@ -1,4 +1,5 @@
 #HTML5 javascript application template
+client stack for building html5 javascript application
 
 ##Using following javascripts
  * require.js
@@ -7,9 +8,13 @@
  * less.js
  * r.js
 
- Other tool
-  * node
+##Other tool
+ * node
 
 ## Build
 run following command from client folder of project
-    node ../tools/r.js -o app.build.js
+<pre>
+<code>
+node ../tools/r.js -o app.build.js
+</code>
+</pre>
