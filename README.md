@@ -10,8 +10,8 @@
 ##Other tool
  * node
 
-## Build
-run following command from client folder of project
+##Build
+Run following command from client folder of project
 <pre><code>
 node ../tools/r.js -o app.build.js
 </code></pre>
