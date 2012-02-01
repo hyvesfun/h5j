@@ -8,7 +8,7 @@
  * r.js
 
  Other tool
-  * node
+ * node
 
 ## Build
 run following command from client folder of project
